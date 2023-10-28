@@ -8,7 +8,7 @@ public static void main (String[]args){
     double varDouble = 34.67;
     char varChar = '2';
     boolean varBoolean = true;
-
+    System.out.println(varInt);
 
 
 }
